@@ -1,0 +1,110 @@
+.Header{
+    display:flex;
+    margin-bottom: 20px;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+    justify-content: center;
+}
+.H1{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H2{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H3{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H4{
+    display:flex;
+    background-image: linear-gradient(red,brown);   
+}
+.H5{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H6{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.C1{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C2{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C3{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C4{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C5{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C6{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+
+a:hover{
+    color: gold;
+}
+a:active{
+    color: red;
+}
+
+.C1:hover p{
+    opacity: 1;
+    color: gold;
+}
+.C1:active p{
+    opacity: 1;
+    color: red;
+}
+.C2:hover p{
+    opacity: 1;
+    color: gold;
+}
+.C2:active p{
+    opacity: 1;
+    color: red;
+}
+.C3:hover p{
+    opacity: 1;
+    color: gold;
+}
+.C3:active p{
+    opacity: 1;
+    color: red;
+}
+.C4:hover p{
+    opacity: 1;
+    color: gold;
+}
+.C4:active p{
+    opacity: 1;
+    color: red;
+}
+.C5:hover p{
+    opacity: 1;
+    color: gold;
+}
+.C5:active p{
+    opacity: 1;
+    color: red;
+}
+.C6:hover p{
+    opacity: 1;
+    color: gold;
+}
+.C6:active p{
+    opacity: 1;
+    color: red;
+}
